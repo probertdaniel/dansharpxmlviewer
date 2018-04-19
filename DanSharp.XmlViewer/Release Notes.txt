@@ -1,0 +1,18 @@
+v1.01 Release Notes
+12/12/2007
+-------------------
+
+Updates
+---------
+* Changed URL references to http://dansharpxmlviewer.codeplex.com
+
+Bug Fixes
+---------
+* Fixed a bug where long file names would cause an error upon startup, and the application could not be opened unless the IsolatedStorage config file was deleted.
+
+------------------------------------------------------------------
+v1.00 Release Notes
+27/11/2007
+-------------------
+
+* Initial Release
